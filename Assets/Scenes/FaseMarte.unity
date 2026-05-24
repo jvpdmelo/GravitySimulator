@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 69e10e886d52d20478f9ed5424126be8, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -5571,11 +5571,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8881028038475493880, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
       propertyPath: m_Text
-      value: "Marte possui uma gravidade de aproximadamente 3,7 m/s\xB2, sendo mais
-        fraca que a da Terra. Isso faz com que os movimentos sejam mais leves e os
-        saltos mais altos, mas ainda mantendo uma sensa\xE7\xE3o pr\xF3xima da gravidade
-        terrestre. Nesta simula\xE7\xE3o, voc\xEA poder\xE1 explorar como objetos
-        e personagens se comportariam na superf\xEDcie do planeta vermelho.\n\ng\u22483,7
+      value: "Marte possui uma gravidade de aproximadamente 3,72 m/s\xB2, sendo 1/3
+        da gravidade Terrestre. Isso faz com que os movimentos sejam mais leves e
+        os saltos mais altos, mas ainda mantendo uma sensa\xE7\xE3o pr\xF3xima da
+        gravidade terrestre. Nesta simula\xE7\xE3o, voc\xEA poder\xE1 explorar como
+        objetos e personagens se comportariam na superf\xEDcie do planeta vermelho.\n\ng\u22483,72
         m/s2"
       objectReference: {fileID: 0}
     m_RemovedComponents: []

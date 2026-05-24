@@ -2189,11 +2189,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8881028038475493880, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
       propertyPath: m_Text
-      value: "A Terra possui uma gravidade m\xE9dia de aproximadamente 9,8 m/s\xB2,
+      value: "A Terra possui uma gravidade m\xE9dia de aproximadamente 9,81 m/s\xB2,
         respons\xE1vel por manter pessoas, oceanos e a atmosfera ligados ao planeta.
         Nesta simula\xE7\xE3o, voc\xEA poder\xE1 observar como os movimentos e objetos
         se comportam sob a gravidade terrestre, utilizada como refer\xEAncia para
-        comparar os efeitos gravitacionais de outros planetas do sistema solar.\n\ng\u22489,8
+        comparar os efeitos gravitacionais de outros planetas do sistema solar.\n\ng\u22489,81
         m/s2"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
